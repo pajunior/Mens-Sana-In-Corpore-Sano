@@ -29,4 +29,4 @@ Nesse ponto são exibidos alguns gráficos que tentam evidenciar a relação ent
 Essa etapa é importante para sugerir hipóteses que serão verificadas no próximo tópico.
 
 - **TESTES DE HIPÓTESES** \
-Aplicação de testes estatísticos para aceitar ou rejeitar as hipóteses que foram levantadas
+Aplicação de testes estatísticos para aceitar ou rejeitar as hipóteses que foram levantadas.
