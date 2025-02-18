@@ -3,7 +3,7 @@ O projeto busca comprovar a relação (ou a ausência de relação) entre os sin
 ## **DADOS** 
 Os dados foram extraídos da pesquisa NHNES (*National Health and Nutrition Examination Survey*) realizada anualmente nos EUA para avaliar a saúde e nutrição de adultos e crianças.
 
-O projeto utiliza dados referente ao período de 2005 a 2006.
+O projeto utiliza dados referentes ao período de 2005 a 2006.
 
 Foram utilizadas duas bases de dados que foram unificadas logo no início do projeto:
 
